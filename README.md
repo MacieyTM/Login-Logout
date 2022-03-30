@@ -12,3 +12,6 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Login-Logout/
+
+![image](https://user-images.githubusercontent.com/95743795/160928462-f5f19db5-dacb-42dc-ac3c-f0ca92a908b4.png)
+![image](https://user-images.githubusercontent.com/95743795/160928527-a0bd0ee3-4463-4d4a-aed3-2d7b88859803.png)
